@@ -2241,6 +2241,18 @@ input, select, textarea {
 			margin-bottom: 0;
 		}
 
+		form > #bookmarksResults {
+			margin: 2rem;
+			text-align: left;
+			letter-spacing: 3px;
+			line-height: 0.8px;
+		}
+
+		form > #list-submit {
+			margin: 2rem;
+			text-align: center;
+		}
+
 		form > .fields {
 			display: -moz-flex;
 			display: -webkit-flex;
